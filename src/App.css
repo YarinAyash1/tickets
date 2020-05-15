@@ -27,7 +27,9 @@
 .App-link {
   color: #61dafb;
 }
-
+h4{
+  margin: 0 0 10px;
+}
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
@@ -35,4 +37,48 @@
   to {
     transform: rotate(360deg);
   }
+}
+.tickets{
+  display: grid;
+  grid-template-columns: repeat(1, 1fr);
+  grid-gap: 20px;
+  margin: 0 auto;
+  max-width: 90%;
+}
+.times{
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 20px;
+  border-top: 1px solid #ddd;
+  margin: 25px 50px 0;
+  padding: 25px 35px 35px;
+  
+}
+.events{
+  display: inherit;
+  grid-gap: 10px;
+}
+.event{
+  border:1px solid #ddd;
+  padding: 10px 0 ;
+  background: #f8f8f8;
+}
+@media(max-width:1024px){
+  .tickets{
+    grid-template-columns: repeat(2, 1fr);
+    margin: 0 auto;
+    max-width: calc(100% - 40px);
+  }
+}
+.ticket{
+  border: 1px solid #ddd;
+  
+}
+.add-ticket{
+  display: block;
+  line-height: 30px;
+  font-size: 16px;
+  border: 1px solid #ddd;
+  background: #f8f8f8;
+  
 }

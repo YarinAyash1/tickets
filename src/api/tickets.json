@@ -1,0 +1,204 @@
+
+[
+  {
+    "name": "Lorem Ipsum dolor Ticket 1",
+    "date": "12/11/2019",
+    "price": "100",
+    "ticket_id": "1",
+    "times": [
+      {
+        "time_name": "בוקר",
+        "events": [
+          {
+            "event_name": "אירוע 1"
+          },
+          {
+            "event_name": "אירוע 2"
+          },
+          {
+            "event_name": "אירוע 3"
+          }
+        ]
+      },
+      {
+        "time_name": "צהריים",
+        "events": [
+          {
+            "event_name": "אירוע 1"
+          },
+          {
+            "event_name": "אירוע 2"
+          },
+          {
+            "event_name": "אירוע 3"
+          }
+        ]
+      }, 
+      {
+        "time_name": "ערב",
+        "events": [
+          {
+            "event_name": "אירוע 1"
+          },
+          {
+            "event_name": "אירוע 2"
+          },
+          {
+            "event_name": "אירוע 3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Lorem Ipsum dolor Ticket 2",
+    "date": "13/11/2019",
+    "price": "200",
+    "ticket_id": "2",
+    "times": [
+      {
+        "time_name": "בוקר",
+        "events": [
+          {
+            "event_name": "אירוע 1"
+          },
+          {
+            "event_name": "אירוע 2"
+          },
+          {
+            "event_name": "אירוע 3"
+          }
+        ]
+      },
+      {
+        "time_name": "צהריים",
+        "events": [
+          {
+            "event_name": "אירוע 1"
+          },
+          {
+            "event_name": "אירוע 2"
+          },
+          {
+            "event_name": "אירוע 3"
+          }
+        ]
+      }, 
+      {
+        "time_name": "ערב",
+        "events": [
+          {
+            "event_name": "אירוע 1"
+          },
+          {
+            "event_name": "אירוע 2"
+          },
+          {
+            "event_name": "אירוע 3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Lorem Ipsum dolor Ticket 3",
+    "date": "14/11/2019",
+    "price": "300",
+    "ticket_id": "3",
+    "times": [
+      {
+        "time_name": "בוקר",
+        "events": [
+          {
+            "event_name": "אירוע 1"
+          },
+          {
+            "event_name": "אירוע 2"
+          },
+          {
+            "event_name": "אירוע 3"
+          }
+        ]
+      },
+      {
+        "time_name": "צהריים",
+        "events": [
+          {
+            "event_name": "אירוע 1"
+          },
+          {
+            "event_name": "אירוע 2"
+          },
+          {
+            "event_name": "אירוע 3"
+          }
+        ]
+      }, 
+      {
+        "time_name": "ערב",
+        "events": [
+          {
+            "event_name": "אירוע 1"
+          },
+          {
+            "event_name": "אירוע 2"
+          },
+          {
+            "event_name": "אירוע 3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Lorem Ipsum dolor Ticket 4",
+    "date": "15/11/2019",
+    "price": "400",
+    "ticket_id": "4",
+    "times": [
+      {
+        "time_name": "בוקר",
+        "events": [
+          {
+            "event_name": "אירוע 1"
+          },
+          {
+            "event_name": "אירוע 2"
+          },
+          {
+            "event_name": "אירוע 3"
+          }
+        ]
+      },
+      {
+        "time_name": "צהריים",
+        "events": [
+          {
+            "event_name": "אירוע 1"
+          },
+          {
+            "event_name": "אירוע 2"
+          },
+          {
+            "event_name": "אירוע 3"
+          }
+        ]
+      }, 
+      {
+        "time_name": "ערב",
+        "events": [
+          {
+            "event_name": "אירוע 1"
+          },
+          {
+            "event_name": "אירוע 2"
+          },
+          {
+            "event_name": "אירוע 3"
+          }
+        ]
+      }
+    ]
+  }
+]
+  
